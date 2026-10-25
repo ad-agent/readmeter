@@ -59,3 +59,8 @@ invalid speeds, and file errors. See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 [MIT](LICENSE) · Created by [ad-agent](https://github.com/ad-agent).
+
+## Usage guide
+
+See the [usage guide](docs/usage.md) for pipelines, JSON output, counting
+conventions, custom reading speeds, and troubleshooting.
