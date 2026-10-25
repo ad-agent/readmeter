@@ -1,0 +1,3 @@
+Good documentation respects the reader's time.
+Write clearly, keep examples practical, and remove unnecessary words.
+Readmeter helps you estimate the reading time of your next draft.
